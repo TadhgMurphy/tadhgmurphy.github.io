@@ -1,0 +1,39 @@
+﻿body {
+    background-color:lavender;
+}
+h1 {
+    color: fuchsia;
+    background-color: black;
+    font-size: 2.5em;
+}
+.header {
+    font-family: 'Share Tech Mono', monospace;
+    font-weight: 400;
+    font-style: normal;
+    color: hotpink;
+    background-color: black;
+    font-size: 1.8em;
+}
+p {
+    color: white;
+    background-color: darkblue;
+    font-size: 1.2em;
+}
+#mc-world-pic {
+    width: 300px;
+}
+#mc-cover-screen {
+    width: 300px;
+}
+#mc-dimensions {
+    width: 300px;
+}
+#Notch{
+    width: 300px;
+}
+#mojang{
+    width: 450px;
+}
+#pixelmon{
+    width: 400px;
+}
